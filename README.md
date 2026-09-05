@@ -1,4 +1,4 @@
-# Awesome Physics [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Physics [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1115459246.svg)](https://doi.org/10.5281/zenodo.19681720)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -125,10 +125,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Mathematics](https://github.com/awesomelistsio/awesome-mathematics)
-- [Awesome Quantum Computing](https://github.com/awesomelistsio/awesome-quantum-computing)
-- [Awesome Data Science](https://github.com/awesomelistsio/awesome-data-science)
-- [Awesome Scientific Computing](https://github.com/awesomelistsio/awesome-scientific-computing)
+- [Awesome Mathematics](https://github.com/brandonhimpfen/awesome-mathematics)
+- [Awesome Quantum Computing](https://github.com/brandonhimpfen/awesome-quantum-computing)
+- [Awesome Data Science](https://github.com/brandonhimpfen/awesome-data-science)
+- [Awesome Scientific Computing](https://github.com/brandonhimpfen/awesome-scientific-computing)
 
 ## Contribute
 
